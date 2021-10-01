@@ -1,0 +1,51 @@
+
+.topnav {
+  background-color: #333333;
+  overflow: hidden;
+}
+
+
+.topnav a {
+  float: right;
+  color: #ff0099;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+.div2 {
+  padding-top: 10%;
+  padding-right: 10%;
+  padding-bottom: 10%;
+  padding-left: 10%;
+}
+p{
+text-align: center;
+font-family: "Trirong";
+}
+body {
+  background-image: url('topography.png');
+}
+.div3{
+  text-align: center;
+}
+h3{
+  font-size: 30px;
+  color: #ff0099;
+}
+h4{
+  text-align: center;
+  font-size: 50px;
+}
+img{
+  padding-top: 10px;
+  padding-left: 500px;
+}
